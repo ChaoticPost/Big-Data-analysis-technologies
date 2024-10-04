@@ -6,9 +6,9 @@
   </div>
 
   <div id="badges">
-    <a href="Telegram">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
+    <a href="https://t.me/daria_chugu" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
   </div>
 
   <div id="github-stats">

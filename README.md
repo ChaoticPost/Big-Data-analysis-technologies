@@ -42,7 +42,7 @@
      <p>Не забывайте устанавливать требуемые библиотеки, чтобы все работало!</p>
 </div>
 
-1. Python - [colab](https://colab.research.google.com/drive/1ZMeZuF7aXCxytHqiHUKQcKXFgusj_Frc?usp=sharing) github
+1. Python - [colab](https://colab.research.google.com/drive/1ZMeZuF7aXCxytHqiHUKQcKXFgusj_Frc?usp=sharing) [github](https://github.com/ChaoticPost/Big-Data-analysis-technologies/tree/main/1%20pr)
 
 2. Визуализация на Python - [colab](https://colab.research.google.com/drive/1tKZpNE0gXVGRZONeJRwH9js6lfenkzpP?usp=sharing) github
    

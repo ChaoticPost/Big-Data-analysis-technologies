@@ -44,7 +44,7 @@
 
 1. Python - [colab](https://colab.research.google.com/drive/1ZMeZuF7aXCxytHqiHUKQcKXFgusj_Frc?usp=sharing) [github](https://github.com/ChaoticPost/Big-Data-analysis-technologies/tree/main/1%20pr)
 
-2. Визуализация на Python - [colab](https://colab.research.google.com/drive/1tKZpNE0gXVGRZONeJRwH9js6lfenkzpP?usp=sharing) github
+2. Визуализация на Python - [colab](https://colab.research.google.com/drive/1tKZpNE0gXVGRZONeJRwH9js6lfenkzpP?usp=sharing) [github](https://github.com/ChaoticPost/Big-Data-analysis-technologies/tree/main/2%20pr)
    
 3. Статистика на Python - [colab](https://colab.research.google.com/drive/1b5_sbxcxlaPaXSLXnZcOXTPI1LIC3aOT?usp=sharing) github
 

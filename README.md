@@ -48,7 +48,7 @@
    
 3. Статистика на Python - [colab](https://colab.research.google.com/drive/1b5_sbxcxlaPaXSLXnZcOXTPI1LIC3aOT?usp=sharing) github
 
-4. Корреляция, линейная регрессия и дисперсионный анализ - colab github
+4. Корреляция, линейная регрессия и дисперсионный анализ - [colab](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1_LYPyK8331Ba5wQ_-RzRneagevxA7S4H) github
 
 5. Классификация - colab github
 

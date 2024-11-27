@@ -50,7 +50,7 @@
 
 5. Классификация - [colab](https://colab.research.google.com/drive/1y33xfvjX1k9C9Ls6G4D66AjaMCbsWzbx?usp=sharing) github
 
-6. Кластеризация - colab github
+6. Кластеризация - [colab](https://colab.research.google.com/drive/1gX7-x8U522MV3dKnIX-E9320x3HzOapM?usp=sharing) github
   
 7. Ансамблевое обучение - colab github
 
